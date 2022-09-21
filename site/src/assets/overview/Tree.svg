@@ -1,10 +1,1 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="50" y="42" width="36" height="2" rx="1" fill="#6AA1FF"/>
-<rect x="58" y="52" width="28" height="2" rx="1" fill="#BEDAFF"/>
-<rect x="66" y="62" width="20" height="2" rx="1" fill="#BEDAFF"/>
-<rect x="66" y="72" width="20" height="2" rx="1" fill="#BEDAFF"/>
-<path d="M48 41L45 45L42 41L48 41Z" fill="#6AA1FF"/>
-<path d="M43 80L47 83L43 86V80Z" fill="#6AA1FF"/>
-<path d="M56 51L53 55L50 51L56 51Z" fill="#BEDAFF"/>
-<rect x="50" y="82" width="36" height="2" rx="1" fill="#6AA1FF"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 128 128"><rect width="36" height="2" x="50" y="42" fill="#6AA1FF" rx="1"/><rect width="28" height="2" x="58" y="52" fill="#BEDAFF" rx="1"/><rect width="20" height="2" x="66" y="62" fill="#BEDAFF" rx="1"/><rect width="20" height="2" x="66" y="72" fill="#BEDAFF" rx="1"/><path fill="#6AA1FF" d="M48 41L45 45L42 41L48 41Z"/><path fill="#6AA1FF" d="M43 80L47 83L43 86V80Z"/><path fill="#BEDAFF" d="M56 51L53 55L50 51L56 51Z"/><rect width="36" height="2" x="50" y="82" fill="#6AA1FF" rx="1"/></svg>
